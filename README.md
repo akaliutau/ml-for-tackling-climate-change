@@ -8,6 +8,7 @@ Title: HaarUNet: A Novel Method to Accurately Simulate Turbulent Flow in Boiling
 
 * Jupiter Notebook with code
 * Poster with explanation
+* Initial research proposal
 
 # References
 
